@@ -1,5 +1,5 @@
-### Hi 👋, I'm Prahalad
-###### Turn data chaos into clarity with advanced analytics
+## Hi 👋, I'm Prahalad
+#### Turn data chaos into clarity with advanced analytics
 ![Turn data chaos into clarity with advanced analytics](https://media.licdn.com/dms/image/v2/D5616AQFLp9YNiaPmpQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719755569655?e=1729123200&v=beta&t=zEKXtabM9YKZZuh16_4kgSIHRDfYoSDbQ0H9AZGx8xM)
 
 
